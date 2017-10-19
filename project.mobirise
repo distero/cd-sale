@@ -22,8 +22,11 @@
       }
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 5,
-    "versionPublish": "4.3.4"
+    "uniqCompNum": 6,
+    "versionPublish": "4.3.4",
+    "mcShopcart": {
+      "email": "distero@telenet.be"
+    }
   },
   "pages": {
     "index.html": {
@@ -149,6 +152,112 @@
           "_name": "header1",
           "_anchor": "header1-0",
           "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow mbr-parallax-background mbr-after-navbar\" data-rv-view=\"0\" style=\"background-image: url(&quot;../../app/themes/mobirise3/components/_images/jumbotron.jpg&quot;);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"8\">FULL SCREEN INTRO</h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"9\">Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.</p>\n                    <div class=\"mbr-section-btn\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"10\">DOWNLOAD FOR WINDOWS</a> <a class=\"btn btn-lg btn-white btn-white-outline mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"11\">DOWNLOAD FOR MAC</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#custom-html-3\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" data-rv-view=\"10\" style=\"background-color: rgb(255, 255, 255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  <div class=\"card-img\"><img src=\"@THEME_PATH@/components/_images/gallery/table.jpg\" class=\"card-img-top\"></div>\n                  <div class=\"card-block\">\n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"30\">Bootstrap 4</h4>\n                    <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"31\">Bootstrap 4 has been noted</h5>\n                    <p class=\"card-text mbr-editable-content\" code-editable-id=\"32\">Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.</p>\n                    <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"33\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@THEME_PATH@/components/_images/gallery/desktop.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"34\">Responsive</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"35\">One of Bootstrap 4's big points</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"36\">One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.</p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"37\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@THEME_PATH@/components/_images/gallery/coworkers.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"38\">Web Fonts</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"39\">Google has a highly exhaustive list of fonts</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"40\">Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use aaaaaaaaaaaaaaaaaaaa them on your website easily and freely.</p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"41\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@THEME_PATH@/components/_images/gallery/code-man.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"42\">Unlimited Sites</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"43\">Mobirise gives you the freedom to develop</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"44\">Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"45\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
