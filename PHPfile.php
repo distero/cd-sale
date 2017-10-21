@@ -53,7 +53,7 @@
 <!-- /Google Analytics -->
 
 
-<div id="custom-html-2k" custom-code="true" data-rv-view="70"><?php
+<div id="custom-html-2k" custom-code="true" data-rv-view="806"><?php
 $servername = "localhost";
 $username = "cdsale1q_distero";
 $password = "oretsid0";
@@ -92,13 +92,13 @@ $conn->close();
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+  <script src="assets/cookies-alert-plugin/cookies-alert-core.js"></script>
+  <script src="assets/cookies-alert-plugin/cookies-alert-script.js"></script>
   <script src="assets/shopping-cart/minicart.js"></script>
   <script src="assets/shopping-cart/jquery.easing.min.js"></script>
   <script src="assets/shopping-cart/minicart-customizer.js"></script>
   <script src="assets/firebase-blocks-plugin/firebase-plugin.js"></script>
   <script src="https://cdn.ckeditor.com/4.7.2/standard/ckeditor.js"></script>
-  <script src="assets/cookies-alert-plugin/cookies-alert-core.js"></script>
-  <script src="assets/cookies-alert-plugin/cookies-alert-script.js"></script>
   <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
   <script src="assets/theme/js/script.js"></script>
   
